@@ -6,7 +6,7 @@ using namespace std;
 int main(){
    
     //se declaran variables
-    float a,b,c, forma1 = 0,forma2;
+    float a,b,c, forma1 = 0,forma2 =0;
 
     //preguntando valores
     cout<<"\n            La formula general (−b±(√b² − 4ac))/2a";
